@@ -1,0 +1,21 @@
+id, label, TF
+1, power supply,  0.08585970432428118
+2, redundant power supplies,  0.03773584905660377
+3, power cords,  0.027201257861635224
+4, power supply unit,  0.023353400822879174
+5, swap redundant power supplies,  0.018867924528301886
+6, hot-swap redundant power,  0.018867924528301886
+7, power cord,  0.017106276472853295
+8, ibm,  0.012264150943396227
+9, canister,  0.011469543865414282
+10, following precautions,  0.006289308176100628
+11, ** Do not remove a power power supply unit from an active enclosure until a replacement power power supply unit is ready to be installed, 0
+12, **  disconnect signal cables, 0
+13, **  the ac are lit, 0
+14, **  the ac and dc power power LEDs are lit, 0
+15, **  a power power supply unit is not installed, 0
+16, **  your system is not active, 0
+17, **  the fault fault LED is off, 0
+18, **  if the other fails, 0
+19, **  dc power power LEDs are lit the fault fault LED is off, 0
+20, **  when there is evidence of fire , 0

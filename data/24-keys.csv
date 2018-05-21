@@ -1,0 +1,16 @@
+id, label, TF
+1, drive firmware,  0.125
+2, firmware updates,  0.0625
+3, firmware update file,  0.03273115773115773
+4, expansion enclosures,  0.03125
+5, taskthis procedure,  0.03125
+6, control enclosure,  0.03125
+7, force option,  0.030448717948717948
+8, drive_id,  0.018543956043956044
+9, pdate test utility,  0.018308080808080808
+10, software update test utility,  0.018308080808080808
+11, ** losing access to data data any redundancy errors, 0
+12, **  Do not use, 0
+13, **  Attention, 0
+14, **  losing access to data data, 0
+15, **  any of your drives drives are not running at the latest level of firmware firmware, 0

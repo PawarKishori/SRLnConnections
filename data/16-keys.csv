@@ -1,0 +1,21 @@
+id, label, TF
+1, fibre channel,  0.04720517257669238
+2, global mirror,  0.037402181058257315
+3, depicts,  0.033905134814015386
+4, metro mirror,  0.033399360141544474
+5, remote system,  0.021257112649125436
+6, local system,  0.017895871981976452
+7, ip partnership,  0.015815498074803404
+8, partner system,  0.013693853590069523
+9, global mirror partnerships,  0.010963964609679225
+10, ip partnerships,  0.007931615828556976
+11, ** by issuing the mkfcpartnership command for Fibre Channel connections issuing the mkippartnership command for IP connections or by using the management GUI on the remote system, 0
+12, **  however the partnership is disabled because the network of systems exceeds the number of systems allowed in partnerships, 0
+13, **  the partnership been stopped on the remote system, 0
+14, **  Remote  Stopped the partnership been stopped on the remote system, 0
+15, **  delete Metro  Mirror partnerships, 0
+16, **  This a problem with the connectivity being inactive, 0
+17, **  Not Present, 0
+18, **  because the network of systems exceeds the number of systems allowed in partnerships, 0
+19, **  Partnerships can be defined between up to four systems in a network, 0
+20, **  Long distance links for Metro Mirror, 0

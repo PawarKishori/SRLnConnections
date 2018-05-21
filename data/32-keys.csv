@@ -1,0 +1,21 @@
+id, label, TF
+1, drive assembly,  0.10540849822440113
+2, faulty,  0.028846153846153844
+3, inch drive,  0.028325035561877664
+4, new one,  0.025
+5, inch drive assembly,  0.025
+6, fru stock,  0.025
+7, cru,  0.025
+8, management gui,  0.023690476190476192
+9, fix procedures,  0.013333333333333332
+10, taskthe status,  0.0125
+11, ** the correct drive drive fault fault LED begins to flash, 0
+12, **  when the drive drive activity LED is off, 0
+13, **  a failed drive drive, 0
+14, **  possible damage to the drive drive, 0
+15, **  only when its amber fault fault LED is lit when the drive drive activity LED is off, 0
+16, **  a blank filler, 0
+17, **  a drive drive slot empty, 0
+18, **  the drive drive fault fault LED is on, 0
+19, **  the lit , 0
+20, **  amber fault fault LED on the drive drive, 0

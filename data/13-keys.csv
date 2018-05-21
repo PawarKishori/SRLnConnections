@@ -1,0 +1,21 @@
+id, label, TF
+1, format | certify |,  1.0
+2, se unused | candidate | spare |,  1.0
+3, chdrive,  0.09523809523809523
+4, certify,  0.055390641104926815
+5, chdrive command,  0.047619047619047616
+6, drive properties,  0.047619047619047616
+7, nused | candidate,  0.03333333333333333
+8, array spare,  0.023809523809523808
+9, parameters-use,  0.023809523809523808
+10, nused,  0.023809523809523808
+11, ** with the failed drive drive, 0
+12, **  If a drive drive fails for a distributed array with the failed drive drive in the failed state, 0
+13, **  the drive drive has failed validation, 0
+14, **  If -allowdegraded is not specified the command fails because of insufficient rebuild areas, 0
+15, **  You cannot  specify -allowdegraded and, 0
+16, **  failed it, 0
+17, **  the missing member, 0
+18, **  long running drive drive tasks, 0
+19, **  drive drive has failed validation, 0
+20, **  a hotspare drive drive is not available for the array that the drive drive is a member of, 0

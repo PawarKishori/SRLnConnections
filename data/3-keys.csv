@@ -1,0 +1,15 @@
+id, label, TF
+1, drive fault type,  0.09090909090909091
+2, fault type 3.explanation,  0.09090909090909091
+3, 1686drive fault type,  0.09090909090909091
+4, ser responsecomplete,  0.045454545454545456
+5, canister,  0.03838383838383838
+6, sense data,  0.018181818181818184
+7, drive slot,  0.012987012987012986
+8, possible cause,  0.011363636363636364
+9, frus,  0.011363636363636364
+10, possible cause-frus,  0.011363636363636364
+11, ** this error has been marked as fixed, 0
+12, **  this error as fixed, 0
+13, **  1686, 0
+14, **  Explanation Drive fault fault type 3, 0

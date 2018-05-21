@@ -1,0 +1,12 @@
+id, label, TF
+1, linux operating system,  0.2828571428571428
+2, operating system,  0.2828571428571428
+3, linux hosts,  0.12083333333333332
+4, device mapper multipath,  0.10952380952380951
+5, storwize\xae v3700,  0.1
+6, multipath support,  0.1
+7, multipathing software,  0.1
+8, red hat,  0.07222222222222222
+9, red hat enterprise linux,  0.07222222222222222
+10, suse linux enterprise server,  0.07222222222222222
+11, ** empty, 0

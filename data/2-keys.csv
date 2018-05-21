@@ -1,0 +1,21 @@
+id, label, TF
+1, fibre channel,  0.13194444444444445
+2, fibre channel i,  0.08333333333333333
+3, fibre channel i/o,  0.08333333333333333
+4, inactive,  0.06999999999999999
+5, explanationone,  0.05
+6, more fibre channel i,  0.05
+7, operational.explanationone,  0.05
+8, channel i/o ports,  0.05
+9, platform port,  0.03380952380952381
+10, o port,  0.023809523809523808
+11, ** the service service error code error code, 0
+12, **  the port been intentionally disconnected the service service error code error code, 0
+13, **  for the associated service service error error code code, 0
+14, **  the associated Fibre Channel or Ethernet port is not operational, 0
+15, **  724, 0
+16, **  704, 0
+17, **  This error is expected if the associated Fibre Channel or Ethernet port is not operational, 0
+18, **  1450, 0
+19, **  the 704 or 724 error, 0
+20, **  for any 704 or 724 node errors, 0

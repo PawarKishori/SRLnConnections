@@ -1,0 +1,15 @@
+id, label, TF
+1, ps battery,  0.2638888888888889
+2, ps battery assembly,  0.08333333333333333
+3, ser responsereplace,  0.05555555555555555
+4, node status,  0.037037037037037035
+5, check node status,  0.037037037037037035
+6, support center,  0.018518518518518517
+7, ninterruptible power supply,  0.018518518518518517
+8, verification map,  0.015873015873015872
+9, repair verification map,  0.015873015873015872
+10, possible cause,  0.013888888888888888
+11, ** not show a status of online, 0
+12, **  1190, 0
+13, **  the problem with the uninterruptible power power supply, 0
+14, **  If any nodes do not show a status of online, 0

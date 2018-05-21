@@ -1,0 +1,21 @@
+id, label, TF
+1, replaceable,  0.426960212311361
+2, replaceable units,  0.18796992481203006
+3, customer replaceable,  0.15724135097607478
+4, node canister,  0.09974937343358396
+5, storwize v3700 replaceable units,  0.05263157894736842
+6, v3700 replaceable units,  0.05263157894736842
+7, node canister battery,  0.05
+8, machine code,  0.030542986425339362
+9, machine code revision,  0.030542986425339362
+10, replaceable parts,  0.02631578947368421
+11, ** Customer replaceable 25 m Yellow Cat5e, 0
+12, **  canister batteries for machine code , 0
+13, **  revisions 7.1.0.0  used in machines running machine code revision 6.4.x.x, 0
+14, **  an incompatible node canister battery of fatal node error 650, 0
+15, **  Customer replaceable 3 m Yellow Cat5e, 0
+16, **  Customer replaceable 1.5 m Yellow Cat5e, 0
+17, **  Customer replaceable 10 m Yellow Cat5e, 0
+18, **  Customer replaceable 0.6 m Yellow Cat5e, 0
+19, **  650, 0
+20, **  canister batteries for machine code , 0

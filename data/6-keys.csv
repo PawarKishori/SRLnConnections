@@ -1,0 +1,21 @@
+id, label, TF
+1, rack cabinet,  0.027125694818002505
+2, storwize v7000,  0.022142626474542796
+3, drive slots,  0.017270419713298006
+4, control enclosure,  0.0093372134220846
+5, rack-mounted devices,  0.007750125691302161
+6, physical environment,  0.007692307692307693
+7, v7000 environmental requirements,  0.007692307692307693
+8, certain requirements,  0.007692307692307693
+9, 2.5-inch drive slots,  0.005874276736968987
+10, drawer,  0.004690144303856679
+11, ** Do not install a unit in a rack where the air flow is compromised, 0
+12, **  300, 0
+13, **  disconnect all power power cords in the rack cabinet, 0
+14, **  504, 0
+15, **  580, 0
+16, **  air flow blocked on any side , 0
+17, **  front or back of a unit used for air flow through the unit, 0
+18, **  disconnect all power power cords in the rack cabinet disconnect power power during servicing, 0
+19, **  Do not pull out or install any drawer or feature if the rack stabilizer brackets are not attached to the rack, 0
+20, **  Back pressure from rack doors cannot  exceed 5 pascals, 0

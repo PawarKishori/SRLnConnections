@@ -1,0 +1,15 @@
+id, label, TF
+1, enclosure fault,  0.14285714285714285
+2, 1048unexpected enclosure,  0.14285714285714285
+3, bottom snap option,  0.07142857142857142
+4, management gui,  0.07142857142857142
+5, snap option,  0.07142857142857142
+6, ser responseuse,  0.07142857142857142
+7, new enclosure dumps,  0.047619047619047616
+8, generates new enclosure dumps,  0.047619047619047616
+9, enclosures,  0.047619047619047616
+10, following functions,  0.047619047619047616
+11, ** ExplanationUnexpected enclosure fault fault, 0
+12, **  Unexpected enclosure fault fault, 0
+13, **  1048, 0
+14, **  new enclosure dumps, 0

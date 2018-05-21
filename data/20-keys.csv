@@ -1,0 +1,14 @@
+id, label, TF
+1, inch drive assembly,  0.75
+2, drive assembly,  0.75
+3, blank carrier,  0.41666666666666663
+4, 3.5-inch drive assembly,  0.29166666666666663
+5, blank carrier remove,  0.25
+6, new one,  0.125
+7, cru,  0.125
+8, faulty 3.5-inch drive,  0.125
+9, fru stock,  0.125
+10, faulty,  0.125
+11, ** blank carrier blank carrier, 0
+12, **  blank carrier, 0
+13, **  blank carrier a blank carrier, 0

@@ -1,0 +1,21 @@
+id, label, TF
+1, ethernet link,  0.0729121278140886
+2, management gui,  0.0654320987654321
+3, canister,  0.06252685586018919
+4, node canister,  0.04794211960878627
+5, ethernet ports,  0.040123456790123455
+6, storwize\xae v3700,  0.037037037037037035
+7, more ethernet networks,  0.037037037037037035
+8, ethernet networks,  0.037037037037037035
+9, ethernet link failures,  0.037037037037037035
+10, error alerts,  0.030864197530864196
+11, ** missing hardware, 0
+12, **  2 have failed, 0
+13, **  You alerted to an Ethernet link failure by network monitoring tools on the network connected to the link system functions that depend on the Ethernet link might be degraded or offline, 0
+14, **  of the failed link, 0
+15, **  Ethernet link failures, 0
+16, **  to an Ethernet link failure, 0
+17, **  Ethernet link failures problems with the Ethernet ports that connect the Storwizeï¿½ï¿½ V3700 system to one or more Ethernet networks, 0
+18, **  several links connected to the same switch are failing, 0
+19, **  alerted to an Ethernet link failure by network monitoring tools on the network connected to the link system functions that depend on the Ethernet link might be degraded or offline, 0
+20, **  If investigation does not show a clear cause of the failure, 0

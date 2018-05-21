@@ -1,0 +1,21 @@
+id, label, TF
+1, canisters,  0.11287000795197519
+2, critical data,  0.06835484000020166
+3, ac power,  0.03609229857236733
+4, local drive,  0.03165053525709263
+5, state information,  0.028373266078184113
+6, storwize v7000 unified,  0.028116388772126476
+7, volatile memory,  0.02459016393442623
+8, volume data,  0.02459016393442623
+9, state data,  0.024090554254488677
+10, node canisters,  0.02390178127883046
+11, ** If both node canisters shut down shut down without writing the state data data to the local drive drive the system is unable to restart without an extended service service action, 0
+12, **  with a failed battery, 0
+13, **  data data is lost, 0
+14, **  power power failures, 0
+15, **  because the power power supply is absent because the power power supply failed without communicating with the system, 0
+16, **  If both node canisters shut down shut down without writing the cache data data to the local drive drive the system is unable to restart without an extended service service action, 0
+17, **  The system is unable to communicate with the battery, 0
+18, **  If a second ac power power outage occurs before batteries charge completely, 0
+19, **  the system unable to restart without an extended service service action, 0
+20, **  of previous power power failures, 0

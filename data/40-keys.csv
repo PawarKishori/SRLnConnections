@@ -1,0 +1,14 @@
+id, label, TF
+1, pscp,  0.23114379084967324
+2, pscp.,  0.2066748366013072
+3, putty,  0.1463079322638146
+4, scp,  0.11365079365079364
+5, machine code update,  0.06507352941176471
+6, machine code,  0.06507352941176471
+7, storwize v3700,  0.05625
+8, code update files,  0.05625
+9, openssh scp putty pscp,  0.05
+10, openssh scp putty,  0.05
+11, ** the following command to delete dump files, 0
+12, **  insufficient space to store the machine code update file on the system , 0
+13, **  the copy process fails, 0

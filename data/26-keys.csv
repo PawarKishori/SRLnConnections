@@ -1,0 +1,21 @@
+id, label, TF
+1, fix procedures,  0.10514403292181071
+2, event log,  0.07264662337126106
+3, storwize v7000 unified,  0.05185185185185185
+4, storwize\xae v7000 unified,  0.037037037037037035
+5, storwize v7000 unified system,  0.030864197530864196
+6, pane,  0.02379904953434365
+7, following tasks,  0.018518518518518517
+8, device restore,  0.012345679012345678
+9, log fix procedures,  0.012345679012345678
+10, system mark,  0.012345679012345678
+11, ** other errors, 0
+12, **  Click Cancel until you are returned to the Next Recommended Actions  pane, 0
+13, **  the error at the top of the list, 0
+14, **  resolving problems with fix procedures You can use problems with the Storwizeï¿½ V7000, 0
+15, **  If you are not able to complete the actions now click Cancel until you return to the previous pane, 0
+16, **  resolving problems with fix procedures You can use, 0
+17, **  available or view node errors, 0
+18, **  the error as fixed, 0
+19, **  If there is more than one error on the list the error at the top of the list has the highest priority must always be fixed first, 0
+20, **  failed devices, 0

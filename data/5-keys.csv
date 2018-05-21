@@ -1,0 +1,14 @@
+id, label, TF
+1, cmos battery,  0.38888888888888884
+2, battery failure.explanationcmos battery,  0.3333333333333333
+3, battery failure,  0.3333333333333333
+4, ser responsereplace,  0.16666666666666666
+5, cmos battery parent,  0.1111111111111111
+6, error event ids,  0.1111111111111111
+7, possible cause,  0.1111111111111111
+8, cmos battery parent topic,  0.1111111111111111
+9, frus,  0.1111111111111111
+10, error codes,  0.1111111111111111
+11, ** 766, 0
+12, **  ExplanationCMOS battery failure, 0
+13, **  CMOS battery failure, 0

@@ -1,0 +1,13 @@
+id, label, TF
+1, lsdriveprogress,  0.08024691358024691
+2, delimiter,  0.05331088664421997
+3, various drive tasks,  0.037037037037037035
+4, lsdriveprogress command,  0.037037037037037035
+5, attribute=value,  0.024691358024691357
+6, wildcard,  0.02186516581941418
+7, concise view,  0.016666666666666666
+8, detailed view,  0.012906846240179574
+9, parameters-delim delimiter,  0.012345679012345678
+10, maximum possible width,  0.007407407407407408
+11, ** the spacing of columns not occur, 0
+12, **  for example the spacing of columns does not occur, 0

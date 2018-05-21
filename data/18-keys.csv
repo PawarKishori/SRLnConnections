@@ -1,0 +1,12 @@
+id, label, TF
+1, test utility,  0.2948232323232323
+2, software update,  0.1616161616161616
+3, pdate test utility,  0.1616161616161616
+4, software update test,  0.1616161616161616
+5, software update test utility,  0.1616161616161616
+6, software package,  0.08333333333333333
+7, correct software package,  0.08333333333333333
+8, specific steps,  0.041666666666666664
+9, drive firmware,  0.0375
+10, management gui,  0.030555555555555558
+11, ** whether your current system has issues issues that need to be resolved before you update to the next level, 0

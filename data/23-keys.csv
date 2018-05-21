@@ -1,0 +1,21 @@
+id, label, TF
+1, management gui,  0.07153534391710067
+2, control enclosure,  0.052370827323479446
+3, canister,  0.029093604684544555
+4, control enclosure model,  0.02475626934846052
+5, node canister,  0.022351584449623155
+6, fault conditions,  0.013513513513513514
+7, basic understanding,  0.013513513513513514
+8, storwize v7000 gen2,  0.012287494285733721
+9, service assistant,  0.009379317445679
+10, starting point,  0.009009009009009009
+11, ** Unable to log on to the management GUI If you can see the management GUI login screen but cannot  log on you, 0
+12, **  Gen2 node canister inaccessible, 0
+13, **  a location node error The node error listed a location error, 0
+14, **  where you cannot  start the management GUI the node canisters in the control enclosure are unable to run the system software, 0
+15, **  you cannot  log on, 0
+16, **  Gen2 node canister is inaccessible through your administrative network , 0
+17, **  use this procedure to connect a personal computer directly to the node canister to access the service service assistant, 0
+18, **  Cannot  initialize, 0
+19, **  without hosts losing access to the HyperSwap volumes if there, 0
+20, **  a type of problem that you might experience that is not resolved by using the management GUI, 0

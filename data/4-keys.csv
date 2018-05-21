@@ -1,0 +1,17 @@
+id, label, TF
+1, canister,  0.3308080808080808
+2, enclosure identity,  0.09090909090909091
+3, vital product data,  0.09090909090909091
+4, node canister,  0.04292929292929293
+5, enclosure midplane,  0.03636363636363637
+6, ser responsefollow troubleshooting,  0.022727272727272728
+7, ser responsefollow troubleshooting procedures,  0.022727272727272728
+8, other node canister,  0.022727272727272728
+9, same error,  0.018181818181818184
+10, partner canister,  0.01515151515151515
+11, ** ExplanationThe canister was was unable to read vital product data data from the enclosure, 0
+12, **  If a newly installed system has this error on both node canisters the data data that needs to be written to the enclosure will not be available on the canisters ; contact IBM support for the WWNNs to use, 0
+13, **  509, 0
+14, **  The enclosure identity cannot  be read, 0
+15, **  Check errors reported on the other node canister in this enclosure, 0
+16, **  the partner canister is not reporting this error follow the hardware, 0

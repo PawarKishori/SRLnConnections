@@ -1,0 +1,14 @@
+id, label, TF
+1, tls,  0.35740136599511596
+2, storwize\xae v7000,  0.0625
+3, many components,  0.0625
+4, security requirements,  0.0625
+5, ibm spectrum,  0.05208333333333333
+6, security level,  0.05192307692307692
+7, ssl version,  0.04538690476190476
+8, disallow ssl version,  0.04538690476190476
+9, ciphers,  0.03958333333333333
+10, tls ciphers,  0.03125
+11, ** stop working, 0
+12, **  a problem with SSL / TLS clients clients, 0
+13, **  If any clients clients stop working, 0

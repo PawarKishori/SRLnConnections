@@ -1,0 +1,6 @@
+Source, Target, Type
+0, 1, Undirected
+1, 2, Undirected
+3, 4, Undirected
+4, 1, Undirected
+3, 0, Undirected

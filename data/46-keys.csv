@@ -1,0 +1,12 @@
+id, label, TF
+1, canister,  0.5364444379150262
+2, node canister,  0.29411764705882354
+3, release levers,  0.037104072398190045
+4, leds,  0.029411764705882353
+5, system status,  0.029411764705882353
+6, service procedure,  0.0196078431372549
+7, following steps.on,  0.011764705882352941
+8, node starts,  0.004201680672268907
+9, orange end,  0.00392156862745098
+10, closed position,  0.00392156862745098
+11, ** until it stops, 0

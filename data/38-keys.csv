@@ -1,0 +1,21 @@
+id, label, TF
+1, psu,  0.04638901513305039
+2, lsenclosurepsu,  0.036433676784553976
+3, supply unit,  0.020991237972370045
+4, lsenclosurepsu command,  0.018518518518518517
+5, enclosure_id,  0.017369461813906258
+6, power supply,  0.014401630468621463
+7, psu_id,  0.013493406070874646
+8, wildcard,  0.01032111187554944
+9, power supply.,  0.008539531815521457
+10, detailed view,  0.008147381335787133
+11, ** of the highest priority error, 0
+12, **  This is typically blank if there is a problem, 0
+13, **  the spacing of columns not occur, 0
+14, **  the power power supply cannot  be determined, 0
+15, **  there is a PSU fault fault, 0
+16, **  This field blank, 0
+17, **  If only the fan LED is on then there is a fan failure, 0
+18, **  This is typically blank, 0
+19, **  the canisters, 0
+20, **  fan LEDs are all on , 0

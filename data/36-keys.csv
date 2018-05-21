@@ -1,0 +1,21 @@
+id, label, TF
+1, error codes,  0.005087299222244876
+2, w a,  0.004335271100805616
+3, canister,  0.004009176992706448
+4, error event ids,  0.002795248078266946
+5, notification type,  0.002795248078266946
+6, error codes error,  0.0020964360587002098
+7, service procedure,  0.0020964360587002098
+8, error codes error codes,  0.0020964360587002098
+9, mdisk,  0.0016899020410759556
+10, solid state drive,  0.0013786535946109266
+11, ** "W The LDAP configuration is not valid", 0
+12, ** "MDisk corrupt", 0
+13, ** "W FlashCopy failed", 0
+14, ** "330", 0
+15, ** "1311", 0
+16, ** "155", 0
+17, ** "it does not support descriptor sense for LUNs that are greater than 2 TBs", 0
+18, ** "Battery protection unavailable 571", 0
+19, ** "1310", 0
+20, ** "530", 0

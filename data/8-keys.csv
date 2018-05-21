@@ -1,0 +1,21 @@
+id, label, TF
+1, drive assembly,  0.12451955778265897
+2, storwize v7000 gen2,  0.02954545454545455
+3, faulty,  0.028846153846153844
+4, inch drive assembly,  0.026250000000000002
+5, new one,  0.025
+6, gen2 2.5-inch drive,  0.025
+7, 2.5-inch drive assembly,  0.025
+8, faulty 2.5-inch drive,  0.025
+9, fru stock,  0.025
+10, cru,  0.025
+11, ** the correct drive drive fault fault LED begins to flash, 0
+12, **  a failed drive drive, 0
+13, **  possible damage to the drive drive, 0
+14, **  blank carrier, 0
+15, **  only when its amber fault fault LED is lit when the drive drive activity LED is off, 0
+16, **  a drive drive slot empty, 0
+17, **  locking a 2.5-inch drive drive into its slot ResultsIf a failed drive drive, 0
+18, **  the drive drive fault fault LED is on, 0
+19, **  the lit , 0
+20, **  amber fault fault LED on the drive drive, 0

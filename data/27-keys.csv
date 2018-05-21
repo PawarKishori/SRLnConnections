@@ -1,0 +1,18 @@
+id, label, TF
+1, line interface,  0.37777777777777777
+2, command-line interface,  0.37777777777777777
+3, event notification,  0.25
+4, event notifications,  0.19444444444444442
+5, event notification settings,  0.16666666666666666
+6, system notification settings,  0.16666666666666666
+7, inventory reports,  0.13888888888888887
+8, cli,  0.12222222222222223
+9, management gui,  0.08333333333333333
+10, select settings,  0.08333333333333333
+11, ** event notifications in the management GUI, 0
+12, **  email event notifications event notification, 0
+13, **  inventory reports using the CLI You can use the command line interface to set up set up event notification, 0
+14, **  event notifications in the management GUI Settings > Notifications, 0
+15, **  event notifications, 0
+16, **  inventory reports using the CLI You can use the command line interface to set up set up, 0
+17, **  email event notifications, 0

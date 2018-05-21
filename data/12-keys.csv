@@ -1,0 +1,21 @@
+id, label, TF
+1, abort,  0.05528867745445285
+2, applysoftware,  0.0469969659742387
+3, applysoftware command,  0.03105216787034969
+4, abort parameter,  0.02285251290598884
+5, force parameter,  0.018484848484848482
+6, abort parameter.,  0.013314871403106698
+7, redundancy,  0.011818181818181818
+8, new level,  0.010344827586206896
+9, filename_arg,  0.010101010101010102
+10, lsupdate,  0.009921160868895192
+11, ** for stopping an update, 0
+12, **  The applysoftware command cannot  be used in service service state which means the system must be running in order for the command to be successful, 0
+13, **  the update package is deleted, 0
+14, **  a lack of redundancy in the system, 0
+15, **  you are prepared to lose access to data data during the update, 0
+16, **  If the applysoftware command fails the status is inactive, 0
+17, **  The command fails the update package is deleted, 0
+18, **  update cancel, 0
+19, **  even if there is a lack of redundancy in the system, 0
+20, **  until no errors are returned, 0

@@ -1,0 +1,19 @@
+id, label, TF
+1, power supply,  0.04213520331803527
+2, supply unit,  0.036449779647130656
+3, power supply unit,  0.02930995120629039
+4, power cords,  0.027015378865189257
+5, control enclosure,  0.021202431365770748
+6, control enclosure power,  0.018062397372742203
+7, enclosure power-supply unit,  0.018062397372742203
+8, storwize v7000 gen1 power supply unit,  0.017241379310344827
+9, gen1 power supply,  0.017241379310344827
+10, power cord,  0.014367816091954021
+11, ** your system is not active, 0
+12, **  disconnect signal cables, 0
+13, **  when there is evidence of fire , 0
+14, **  water or structural damage, 0
+15, **  during temporary short-term power power outages, 0
+16, **  Do not use the IBM provided power power cord for any other product, 0
+17, **  Attention, 0
+18, **  Do not connect, 0

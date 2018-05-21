@@ -1,0 +1,21 @@
+id, label, TF
+1, powering,  0.06357342564239116
+2, canister,  0.03983040825146088
+3, power off,  0.03577530732703147
+4, leds,  0.03442500284605547
+5, open bays,  0.03153153153153153
+6, power supply units,  0.023573573573573574
+7, power sources,  0.019819819819819822
+8, systemattention,  0.013513513513513514
+9, power cords,  0.011201958260781792
+10, power cables,  0.00900900900900901
+11, ** the following steps Stop all host I/O to volumes on the system, 0
+12, **  Fault is off, 0
+13, **  ï¿½ï¿½1ï¿½ï¿½ Power ï¿½ï¿½2ï¿½ï¿½ Status ï¿½ï¿½3ï¿½ï¿½ Fault, 0
+14, **  of the power power LED, 0
+15, **  LEDs ï¿½ï¿½1ï¿½ï¿½ Power ï¿½ï¿½2ï¿½ï¿½ Status ï¿½ï¿½3ï¿½ï¿½  Fault with no critical errors, 0
+16, **  However the nodes do not permit any I/O activity until the batteries have sufficient charge to enable all the data data on the nodes to be saved in the event of an unexpected power power loss, 0
+17, **  LEDs ï¿½ï¿½1ï¿½ï¿½ Power ï¿½ï¿½2ï¿½ï¿½ Status ï¿½ï¿½3ï¿½ï¿½  Fault, 0
+18, **  the power power LED on both node canisters in the control enclosure blink at 1 Hz which indicates that, 0
+19, **  LEDs ï¿½ï¿½1ï¿½ï¿½ Power ï¿½ï¿½2ï¿½ï¿½ Status ï¿½ï¿½3ï¿½ï¿½ Fault, 0
+20, **  the LEDs on each node canister in the control enclosure, 0

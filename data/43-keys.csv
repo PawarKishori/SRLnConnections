@@ -1,0 +1,21 @@
+id, label, TF
+1, canister,  0.13218306663159599
+2, dimm,  0.04969802593683668
+3, node canister,  0.021103133998354586
+4, gb cache update,  0.020833333333333332
+5, gb cache update options,  0.020833333333333332
+6, operational system,  0.020833333333333332
+7, gb cache updates,  0.020833333333333332
+8, recommended action,  0.01048720630625026
+9, little time,  0.010416666666666666
+10, task notes,  0.010416666666666666
+11, ** 841, 0
+12, **  a canister is missing, 0
+13, **  Because the hardware configuration changes associated alert are recorded in the system event log, 0
+14, **  that you stopped earlier, 0
+15, **  for any new alerts, 0
+16, **  The mismatched hardware error 1470 is automatically cleared, 0
+17, **  The mismatched hardware error 1470, 0
+18, **  When a canister is missing, 0
+19, **  Because the hardware configuration changes a node error are recorded in the system event log, 0
+20, **  the node canister hardware does not match, 0

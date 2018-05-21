@@ -1,0 +1,16 @@
+id, label, TF
+1, control enclosure,  0.5744121891180716
+2, cli,  0.09839965397923876
+3, line interface,  0.058823529411764705
+4, o group,  0.0495607333842628
+5, i/o group,  0.0495607333842628
+6, switch zoning,  0.0196078431372549
+7, taskattention,  0.0196078431372549
+8, control enclosures,  0.014705882352941176
+9, other control enclosures,  0.014705882352941176
+10, same zone,  0.014705882352941176
+11, ** to a system , 0
+12, **  complete the following procedure Issue this CLI command to list the control enclosure candidates, 0
+13, **  the partner control enclosure in the I/O group group is not deleted, 0
+14, **  into same I/O group group to which it belonged before it was was deleted, 0
+15, **  in data data corruption, 0

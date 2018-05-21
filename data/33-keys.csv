@@ -1,0 +1,19 @@
+id, label, TF
+1, power supply unit,  0.18518518518518517
+2, psu,  0.13425925925925924
+3, 1126power supply unit fault type 2explanationa fault,  0.1111111111111111
+4, nit fault type,  0.1111111111111111
+5, i/o,  0.05555555555555555
+6, satask startservice command,  0.05555555555555555
+7, service state,  0.05555555555555555
+8, ser responsereseat,  0.05555555555555555
+9, enclosure.attention,  0.05555555555555555
+10, top power supply unit,  0.037037037037037035
+11, ** ExplanationA fault fault, 0
+12, **  If the fault fault is not resolved, 0
+13, **  Unit fault fault type 2, 0
+14, **  losing state from the node, 0
+15, **  due to a limitation in the power power supply configuration, 0
+16, **  Attention, 0
+17, **  1126, 0
+18, **  losing data data from the node, 0
